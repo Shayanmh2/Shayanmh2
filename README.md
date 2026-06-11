@@ -1,4 +1,4 @@
-## Hi there 👋
+## Greetings wandering traveller!!
 
 - 🔭 I’m currently working on making a c++ turn based roguelike game
 - 🌱 I’m currently learning Unity
