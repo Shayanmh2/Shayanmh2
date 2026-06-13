@@ -1,4 +1,4 @@
-![header](./header.svg)
+![Header](./assets/header.svg)
 
 ## Greetings wandering traveller!!
 _____________________________________________________________________
