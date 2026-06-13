@@ -1,5 +1,6 @@
-![Header](./assets/header.svg)
-
+<p align="center">
+  <img src="./assets/header.svg" alt="Profile header" width="100%" />
+</p>
 ## Greetings wandering traveller!!
 _____________________________________________________________________
 - 🔭 I’m currently working on making a c++ turn based roguelike game
