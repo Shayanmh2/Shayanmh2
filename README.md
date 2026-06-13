@@ -1,4 +1,4 @@
-![header](./github_header.svg)
+![header](./header.svg)
 
 ## Greetings wandering traveller!!
 _____________________________________________________________________
