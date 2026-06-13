@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Profile header" width="100%" />
-</p>
+![Header](./github_header.svg)
 
 ## Greetings wandering traveller!!
 _____________________________________________________________________
