@@ -69,7 +69,7 @@
 -  FYP done - awaiting graduation in July 2026
 -  Diving into game development with Godot and Unity
 -  Exploring computer vision and transformer architectures
--  Open to grad roles in ML/AI, software engineering, and game dev
+-  Open to grad roles in ML/AI, software engineering, Analysis and game dev
 
 > Catching upto bookmarks &nbsp;·&nbsp;  Making and learning game dev stuff, them &nbsp;·&nbsp;  hype music looping indefinitely
 
